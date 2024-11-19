@@ -37,6 +37,7 @@ This project, **Chat with Data**, is a powerful tool for interacting with variou
 - Extracts meaningful data from the website, enabling users to ask questions based on the site's content.  
 
 ---
+![Uploading rag.png…]()
 
 ## Requirements  
 
