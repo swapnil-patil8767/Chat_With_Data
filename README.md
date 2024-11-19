@@ -1,5 +1,5 @@
 ## Project Link
-[https://chatwithyourdata.netlify.app/]([https://github.com/your-username/chat-with-data](https://chatwithyourdata.netlify.app/))
+[https://chatwithyourdata.netlify.app/](https://chatwithyourdata.netlify.app/)
 
 
 # Chat with Data
