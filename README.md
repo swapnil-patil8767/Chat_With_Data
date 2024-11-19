@@ -17,20 +17,20 @@ https://github.com/user-attachments/assets/3db76e5a-de09-45df-9808-a5e21a25fe91
 
 
 
-
+---
 ## Features
 
-### 1. Chat with PDF 📑 
+### 1. Chat with PDF 📑 [Link](https://github.com/swapnil-patil8767/Chat_With_PDF)
 - Users upload a PDF document.  
 - The system extracts the content from the PDF and allows users to ask questions based on the document's content.  
 - Supports multi-page PDFs and handles scanned or searchable text.
 
-### 2. Chat with CSV 📄 
+### 2. Chat with CSV 📄  [Link](https://github.com/swapnil-patil8767/Chat_With_CSV)
 - Users upload a CSV file.  
 - The system parses the file, enabling users to query the data.  
 - Provides capabilities for summarization, filtering, and specific data retrieval.  
 
-### 3. Chat with Databases  🗄️
+### 3. Chat with Databases  🗄️  [Link](https://github.com/swapnil-patil8767/Chat_With_DB)
 - Users connect their local databases.  
 - Supported databases include MySQL, PostgreSQL, SQLite, and others via provided credentials:  
   - **User ID**  
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/3db76e5a-de09-45df-9808-a5e21a25fe91
   - **Database Name**  
 - Once connected, users can query the database using plain English commands.
 
-### 4. Chat with Website  🌐 
+### 4. Chat with Website  🌐  [Link](https://github.com/swapnil-patil8767/Chat_With_Web)
 - Users enter a website URL to interact with.  
 - Multiple website URLs can be provided.  
 - Extracts meaningful data from the website, enabling users to ask questions based on the site's content.  
@@ -93,9 +93,4 @@ https://github.com/user-attachments/assets/3db76e5a-de09-45df-9808-a5e21a25fe91
 ### Workflow Diagram:
 Refer to the workflow diagram for a visual representation of the process.
 
-## Requirements  
-
-- Python 3.8 or later  
-- Necessary libraries (install via `requirements.txt`):  
-  ```bash
-  pip install -r requirements.txt
+---
